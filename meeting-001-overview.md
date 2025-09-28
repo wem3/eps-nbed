@@ -19,7 +19,7 @@ However, the reason some of my cog neuro associates aren't crazy about it is, in
 
 Same is true of fMRI, but a little higher financial and institutional barrier to entry?  
 
-[OpenEEG](https://openeeg.sourceforge.net/) is about building your own rig for $200 - $400.  I'm sure @machinehum, the dude from [Rootkit Labs](who was inspired recently by this Reddit post about an [open source 16-channel BCI board](https://www.reddit.com/r/electronics/comments/1nq15ei/open_source_16_channels_bci_board_i_made_called/?share_id=_aLrXmkW9J9qam_2bXZt_&utm_content=1&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=1) [(github)](https://github.com/nikki-uwu/Meower) can probably make it better, cheaper.
+[OpenEEG](https://openeeg.sourceforge.net/) is about building your own rig for $200 - $400.  I'm sure @machinehum, the dude from [Rootkit Labs](insert link) who was inspired recently by this Reddit post about an [open source 16-channel BCI board](https://www.reddit.com/r/electronics/comments/1nq15ei/open_source_16_channels_bci_board_i_made_called/?share_id=_aLrXmkW9J9qam_2bXZt_&utm_content=1&utm_medium=android_app&utm_name=androidcss&utm_source=share&utm_term=1), [github repo](https://github.com/nikki-uwu/Meower), can probably make it better, cheaper.
   
 
 He also recommended checking out [OpenBCI](https://openbci.com/?utm_source=google&utm_medium=cpc&utm_campaign=716348300&utm_content=openbci&gclid=Cj0KCQjw1_SkBhDwARIsANbGpFthlEp6Iq1jgCN5xBfwNZeFPKy5xRB0vbkTdBDleIc1IHU6DhBt-voaAnx-EALw_wcB)  
